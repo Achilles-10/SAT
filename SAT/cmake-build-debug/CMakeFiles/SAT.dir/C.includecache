@@ -1,0 +1,104 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/learning/C program design/SAT/clauses.c
+clauses.h
+D:/learning/C program design/SAT/clauses.h
+stdlib.h
+-
+stdio.h
+-
+
+D:/learning/C program design/SAT/clauses.h
+vec.h
+D:/learning/C program design/SAT/vec.h
+
+D:/learning/C program design/SAT/formula.c
+formula.h
+D:/learning/C program design/SAT/formula.h
+stdlib.h
+-
+math.h
+-
+windows.h
+-
+
+D:/learning/C program design/SAT/formula.h
+stdio.h
+-
+vec.h
+D:/learning/C program design/SAT/vec.h
+clauses.h
+D:/learning/C program design/SAT/clauses.h
+
+D:/learning/C program design/SAT/main.c
+menu.h
+D:/learning/C program design/SAT/menu.h
+
+D:/learning/C program design/SAT/menu.c
+toCNF.h
+D:/learning/C program design/SAT/toCNF.h
+menu.h
+D:/learning/C program design/SAT/menu.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+math.h
+-
+string.h
+-
+windows.h
+-
+
+D:/learning/C program design/SAT/menu.h
+sudoku.h
+D:/learning/C program design/SAT/sudoku.h
+
+D:/learning/C program design/SAT/sudoku.c
+sudoku.h
+D:/learning/C program design/SAT/sudoku.h
+stdio.h
+-
+stdlib.h
+-
+windows.h
+-
+
+D:/learning/C program design/SAT/sudoku.h
+
+D:/learning/C program design/SAT/toCNF.c
+toCNF.h
+D:/learning/C program design/SAT/toCNF.h
+math.h
+-
+stdlib.h
+-
+
+D:/learning/C program design/SAT/toCNF.h
+sudoku.h
+D:/learning/C program design/SAT/sudoku.h
+clauses.h
+D:/learning/C program design/SAT/clauses.h
+formula.h
+D:/learning/C program design/SAT/formula.h
+
+D:/learning/C program design/SAT/vec.c
+vec.h
+D:/learning/C program design/SAT/vec.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+D:/learning/C program design/SAT/vec.h
+

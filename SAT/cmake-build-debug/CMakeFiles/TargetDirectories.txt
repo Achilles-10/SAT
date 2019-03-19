@@ -1,0 +1,3 @@
+D:/learning/C program design/SAT/cmake-build-debug/CMakeFiles/SAT.dir
+D:/learning/C program design/SAT/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/learning/C program design/SAT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
